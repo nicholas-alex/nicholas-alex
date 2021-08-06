@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nicholas
+- 👀 I’m interested in Building macOS apps
+- 🌱 I’m currently learning SwiftUI
+- 📫 How to reach me: nicholas.xu@rkdks.nl
